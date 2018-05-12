@@ -1,0 +1,35 @@
+_repo: Contes-et-l-gendes1re-Partie_18873
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guerber, H. A. (Hélène Adeline)
+    aliases:
+    - Guerber, Hélène Adeline
+    - Guerber, Helene Adeline
+    birthdate: 1859
+    deathdate: 1929
+    gutenberg_agent_id: '5313'
+    url: http://www.gutenberg.org/2009/agents/5313
+description: Legends and fairy tales adapted and translated from various languages,
+  with vocabularies.
+gutenberg_bookshelf: FR Contes
+gutenberg_issued: '2006-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18873'
+language:
+- en
+- fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'French language -- Readers'
+- !lcsh 'Fairy tales -- France'
+- !lcsh 'Legends -- France'
+title: Contes et légendes. 1re Partie
+url: http://www.gutenberg.org/ebooks/18873
